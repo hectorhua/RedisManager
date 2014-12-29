@@ -1,7 +1,6 @@
 /**
- * Copyright (c) 2014,travelsky
+ * Copyright (c) 2014,
  * All rights reserved. 
- * Travelsky CONFIDENTIAL
  *  
  * @file       RedisManager.cpp
  * @brief      £¨¼òÒªÃèÊö£©
